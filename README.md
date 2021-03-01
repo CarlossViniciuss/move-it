@@ -59,7 +59,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ### Autor
 
 
- <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/69722024?s=460&u=bb99b44a5513f6d6683b825c22061c48274f65e7&v=4" width="100px" alt=""/>
+ <img style="border-radius: 50%" src="https://instagram.fssz3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/116748339_316119582912608_1240945628270052240_n.jpg?tp=1&_nc_ht=instagram.fssz3-1.fna.fbcdn.net&_nc_ohc=OTUbF77fF4UAX9Eu0xd&oh=aa0d3375f67363c3cd36f1de27a84f00&oe=60642060" width="100px" alt=""/>
 
  <sub><b>Carlos Vinicius</b></sub></a> <a href="">🚀</a>
 <br />
