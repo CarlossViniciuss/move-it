@@ -15,9 +15,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p></br>
 
-<h1 align="center">
+
   <img width="100%" alt="mockup" title=".it" src="readme/mockup.png" />
-</h1></br>
+</br>
 
 
 
