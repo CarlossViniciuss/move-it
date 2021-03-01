@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador podendo recompensar quem utiliza com XP para subir de Level.
 
 <h1 align="center">
-  <img alt="move.it" title="move.it" src="readme/logo.png" />
+  <img alt="mockup" title=".it" src="google-pixelbook-mockup__1_-removebg-preview.png" />
 </h1>
 
 ## 🔖 Layout
