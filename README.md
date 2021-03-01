@@ -2,9 +2,6 @@
 <h1 align="center">
   <img width="30%" alt="move.it" title="move.it" src="readme/logo.png" />
 </h1>
-<h1 align="center">
-  <img width="100%" alt="mockup" title=".it" src="readme/mockup.png" />
-</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,11 +9,17 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
-</p>
+</p> </br>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
+
+<h1 align="center">
+  <img width="100%" alt="mockup" title=".it" src="readme/mockup.png" />
+</h1>
+
+
 
 
 ## ⚙ Tecnologias
@@ -52,3 +55,18 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+
+### Autor
+---
+
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69722024?s=460&u=6f1ae931d311e3063bae177286efc2811245a1e8&v=4" width="100px;" alt=""/>
+
+ <sub><b>Carlos Vinicius</b></sub></a> <a href="">🚀</a>
+<br />
+
+Feito com ❤️ por Carlos Vinicius 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-vinicius-95745a1a4)](https://www.linkedin.com/in/carlos-vinicius-95745a1a4) 
+[![Gmail Badge](https://img.shields.io/badge/-carlosvinicius.index@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvinicius.index@gmail.com)](mailto:carlosvinicius.index@gmail.com)
+
