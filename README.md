@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="move.it" src="" width="100%">
+  <img alt="" src="" width="100%">
 </p>
 
 ## ⚙ Tecnologias
@@ -33,6 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador podendo recompensar quem utiliza com XP para subir de Level.
+
+<h1 align="center">
+  <img alt="move.it" title="move.it" src="readme/logo.png" />
+</h1>
 
 ## 🔖 Layout
 
