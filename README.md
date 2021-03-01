@@ -13,8 +13,8 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
-<h1 align="left">
-  <img width="70%" alt="mockup" title=".it" src="readme/google-pixelbook-mockup__1_-removebg-preview.png" />
+<h1 align="center">
+  <img width="50%" alt="mockup" title=".it" src="readme/mockup.png" />
 </h1>
 
 ## ⚙ Tecnologias
