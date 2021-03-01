@@ -17,7 +17,7 @@
 
 <h1 align="center">
   <img width="100%" alt="mockup" title=".it" src="readme/mockup.png" />
-</h1>
+</h1></br>
 
 
 
