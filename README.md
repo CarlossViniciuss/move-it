@@ -1,5 +1,9 @@
+
 <h1 align="center">
-  <img alt="move.it" title="move.it" src="readme/logo.png" />
+  <img width="30%" alt="move.it" title="move.it" src="readme/logo.png" />
+</h1>
+<h1 align="center">
+  <img width="100%" alt="mockup" title=".it" src="readme/mockup.png" />
 </h1>
 
 <p align="center">
@@ -13,9 +17,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
-<h1 align="center">
-  <img width="100%" alt="mockup" title=".it" src="readme/mockup.png" />
-</h1>
+
 
 ## ⚙ Tecnologias
 
@@ -29,7 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador podendo recompensar quem utiliza com XP para subir de Level.
 
-<img src="readme/gif.gif" width="100%" />
+<p align= "center">
+<img src="readme/gif.gif" width="80%" />
+</p>
 
 ## 🔖 Layout
 
