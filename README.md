@@ -57,7 +57,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 ### Autor
----
 
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69722024?s=460&u=6f1ae931d311e3063bae177286efc2811245a1e8&v=4" width="100px;" alt=""/>
